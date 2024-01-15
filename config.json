@@ -1,0 +1,129 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "version": "16.7.0",
+    "notiGroup": false,
+    "NOTIFICATION": false,
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": false,
+    "accpetPending": false,
+    "iconUnsend": {
+        "status": true,
+        "icon": "❤"
+    },
+    "autoClear": [],
+    "adminOnly": false,
+    "duyetbox": true,
+    "encryptSt": false,
+    "UPTIME": 216227.75938341802,
+    "autoRestart": 0,
+    "commandDisabled": [
+        "nude.js",
+        "dú.js",
+        "autodown.js",
+        "chuilientuc.js",
+        "taglientuc.js",
+        "yeulientuc.js"
+    ],
+    "eventDisabled": [
+        "antibdbot.js",
+        "rule.js"
+    ],
+    "configApi": {
+        "domain": "https://api.blacksky04.repl.co"
+    },
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "test",
+    "PREFIX": "-",
+    "ADMINBOT": [
+        "100086469965492",
+        "100080340206886",
+        "100026223645354",
+        "61550285500482",
+        "100081877548948",
+        "1514250575"
+    ],
+    "NDH": [
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "2.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "online": false
+    },
+    "antinamebot": {
+        "status": true
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 50000
+    },
+    "fb": {
+        "API_KEY": "FI6bX3kC"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 220
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "poke": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sim": {
+        "APIKEY": "API-1234-abcd-1234-abcd"
+    },
+    "sub": {
+        "APIKEY": ""
+    },
+    "work": {
+        "cooldownTime": 150000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": "",
+        "sendNoti": true,
+        "timeToUnsend": 20
+    },
+    "log": {
+        "enable": true
+    }
+}

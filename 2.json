@@ -1,0 +1,65 @@
+[
+    {
+        "key": "datr",
+        "value": "oBuIZXhaPGMukpINgmE7rGuO",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-01-15T10:33:15.612Z",
+        "lastAccessed": "2024-01-15T10:33:15.612Z"
+    },
+    {
+        "key": "sb",
+        "value": "oxuIZQVO4NKEV9h_xhtgGjYz",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-01-15T10:33:15.612Z",
+        "lastAccessed": "2024-01-15T10:33:15.612Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61553729546918",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-01-15T10:33:15.612Z",
+        "lastAccessed": "2024-01-15T10:33:15.612Z"
+    },
+    {
+        "key": "wd",
+        "value": "1440x773",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-01-15T10:33:15.612Z",
+        "lastAccessed": "2024-01-15T10:33:15.612Z"
+    },
+    {
+        "key": "xs",
+        "value": "48%3AAt2lDqGrPiOBhA%3A2%3A1704289178%3A-1%3A6281%3A%3AAcXrY31Ad5kY627ZnycKF_lgst1H9Zt9TOtpqCGzSRs",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-01-15T10:33:15.612Z",
+        "lastAccessed": "2024-01-15T10:33:15.612Z"
+    },
+    {
+        "key": "fr",
+        "value": "1O5SuybSdScezn0pF.AWUiqQSLFIObgezqk2ACRVxkDFo.BlpQnY.j3.AAA.0.0.BlpQnY.AWXz7H_Hc4M",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-01-15T10:33:15.612Z",
+        "lastAccessed": "2024-01-15T10:33:15.612Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1705314780570%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-01-15T10:33:15.612Z",
+        "lastAccessed": "2024-01-15T10:33:15.612Z"
+    }
+]
